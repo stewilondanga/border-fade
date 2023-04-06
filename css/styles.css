@@ -160,11 +160,12 @@ a {
   color: #04d;
 }
 
-/*.cal td {
+.cal td {
   padding: 0 2px;
   line-height: 100%;
 }
-ul {
+
+/*ul {
   border: 4px solid orange;
   /*border-radius: 20px; it works with radius as well */
 /*-webkit-mask:
