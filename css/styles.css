@@ -165,14 +165,14 @@ a {
   line-height: 100%;
 }
 
-/*ul {
+ul {
   border: 4px solid orange;
   /*border-radius: 20px; it works with radius as well */
-/*-webkit-mask:
+  /*-webkit-mask:
     linear-gradient(#000 0 0),
     /* fade only the padding area
        (in the opposite direction) */
-/*    linear-gradient(#0000,#000 90%) padding-box;
+  /*    linear-gradient(#0000,#000 90%) padding-box;
   -webkit-mask-composite: xor;
           mask-composite: exclude;
 
