@@ -172,13 +172,12 @@ ul {
     linear-gradient(#000 0 0),
     /* fade only the padding area
        (in the opposite direction) */
-    /*    linear-gradient(#0000,#000 90%) padding-box;
+    linear-gradient(#0000, #000 90%) padding-box;
   -webkit-mask-composite: xor;
-          mask-composite: exclude;
-
+  mask-composite: exclude;
 }
 
-
+/*
 
 body {
   margin: 0;
